@@ -41,20 +41,20 @@
 
 /* Updated styles for artwork images */
 .artwork-image {
-  max-width: 100%; /* Ensures the image doesn't exceed the container width */
-  height: auto; /* Allows height to adjust automatically */
-  max-height: 400px; /* Restricts the image height to prevent overflow */
-  object-fit: cover; /* Ensures the image is scaled appropriately */
-  margin: 0 auto; /* Centers the image horizontally */
-  display: block; /* Makes sure the image is treated as a block element */
-  border-radius: 10px; /* Optional: Add rounded corners for aesthetics */
+  max-width: 100%; 
+  height: auto; 
+  max-height: 400px; 
+  object-fit: cover; 
+  margin: 0 auto; 
+  display: block; 
+  border-radius: 10px; /
 }
 
 /* Placeholder styles for artwork */
 .artwork-placeholder {
-  width: 100%; /* Allows the placeholder to scale with the container */
-  max-width: 300px; /* Sets a maximum width for the placeholder */
-  height: auto; /* Adjust height to maintain aspect ratio */
+  width: 100%; 
+  max-width: 300px; 
+  height: auto; 
   background-color: #ccc;
   display: inline-block;
   line-height: 300px;
