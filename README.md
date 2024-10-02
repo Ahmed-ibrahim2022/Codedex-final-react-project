@@ -31,26 +31,24 @@ To run the Element Quiz App locally, follow these steps:
 
 1. **Clone the repository**:
 
-  ` ```bash `
+   ```bash
    git clone https://github.com/yourusername/element-quiz-app.git
     ```
 2. **Navigate to the project directory**:
  
-  ` ```bash `
-  cd element-quiz-app
-  ```
-
+   ```bash`
+   cd element-quiz-app
+    ```
 3. **Install the dependencies**:
 
-  ` ```bash  `
-  npm install
+  ```bash
+   npm install
   ```
-
 4. **Start the application**:
 
- `  ```bash `
+  ```bash
  npm start
- ```
+  ```
 
 - Open your browser and navigate to http://localhost:3000.
 
@@ -65,19 +63,20 @@ Contributions are welcome! If you have suggestions or improvements, please creat
 
 2. **Create your feature branch**:
 
-  ` ```bash  `
+ ```bash
 
 git checkout -b feature/YourFeature
  ```
-3. ** Commit your changes**:
 
-` ```bash `
+3. **Commit your changes**:
+
+```bash
 
 git commit -m "Add some feature"
  ```
  4. **Push to the branch**:
 
- ` ```bash `
+ ```bash
 
 git push origin feature/YourFeature
  ```
