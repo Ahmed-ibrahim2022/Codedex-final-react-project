@@ -36,7 +36,7 @@ To run the Element Quiz App locally, follow these steps:
     ```
 2. **Navigate to the project directory**:
  
-   ```bash`
+   ```bash
    cd element-quiz-app
     ```
 3. **Install the dependencies**:
