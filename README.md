@@ -31,21 +31,28 @@ To run the Element Quiz App locally, follow these steps:
 
 1. **Clone the repository**:
 
-   ```bash
+  ` ```bash `
    git clone https://github.com/yourusername/element-quiz-app.git
-Navigate to the project directory:
+    ```
+2. **Navigate to the project directory**:
  
-   ```bash
-cd element-quiz-app
-Install the dependencies:
+  ` ```bash `
+  cd element-quiz-app
+  ```
 
-   ```bash
-npm install
-Start the application:
+3. **Install the dependencies**:
 
-   ```bash
-npm start
-Open your browser and navigate to http://localhost:3000.
+  ` ```bash  `
+  npm install
+  ```
+
+4. **Start the application**:
+
+ `  ```bash `
+ npm start
+ ```
+
+- Open your browser and navigate to http://localhost:3000.
 
 ## 🚀 Usage
 Enter your name on the welcome screen.
@@ -54,24 +61,27 @@ Discover your element and view a related artwork from the Met Museum.
 ## 🤝 Contributing
 Contributions are welcome! If you have suggestions or improvements, please create a pull request or open an issue.
 
-### Fork the repository
+1. **Fork the repository**
 
- - Create your feature branch:
+2. **Create your feature branch**:
 
-   ```bash
+  ` ```bash  `
 
 git checkout -b feature/YourFeature
- - Commit your changes:
+ ```
+3. ** Commit your changes**:
 
-   ```bash
+` ```bash `
 
 git commit -m "Add some feature"
- - Push to the branch:
+ ```
+ 4. **Push to the branch**:
 
-   ```bash
+ ` ```bash `
 
 git push origin feature/YourFeature
- - Open a pull request
+ ```
+ 5. **Open a pull request**
 
 **📄 License**:
 This project is licensed under the MIT License.
